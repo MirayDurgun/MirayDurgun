@@ -1,7 +1,7 @@
 ## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/miraaydurgun)
 
-[![Linkedin Badge](https://img.shields.io/badge/-miraaydurgun-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miraydurgun/)
-[![Instagram Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/miraaydurgun/)
+[![Linkedin Badge](https://img.shields.io/badge/-miraydurgun-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/miraydurgun)
+[![Instagram Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/miraaydurgun/)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
