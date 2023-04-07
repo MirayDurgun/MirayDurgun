@@ -2,8 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-miraaydurgun-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hakanyalitekin)
 [![Instagram Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/miraaydurgun/?next=%2F)
-[![Turkcell Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/miraaydurgun/?next=%2F)
+[![Turkcell Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Turkcell&logoColor=white)](https://www.instagram.com/miraaydurgun/?next=%2F)
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
@@ -34,8 +35,6 @@
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> 
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
 
-<br>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br>
 <table border="0" align="center">
 <tr border="0">
