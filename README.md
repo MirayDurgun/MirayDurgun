@@ -25,8 +25,8 @@
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> 
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
       <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> </a> 
-      <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="vs" width="40" height="40"/> </a> 
-      <a href="https://visualstudiocode.microsoft.com/tr/vs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a> 
+      <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg&logoColor=white" alt="vs" width="40" height="40"/> </a> 
+
 
 
 
