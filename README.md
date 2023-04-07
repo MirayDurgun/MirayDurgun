@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-miraaydurgun-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hakanyalitekin)
 [![Instagram Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/miraaydurgun/?next=%2F)
-[![Discord Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Discord&logoColor=white)](https://www.instagram.com/miraaydurgun/?next=%2F)
+[![Discord Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Discord&logoColor=dark)](https://www.instagram.com/miraaydurgun/?next=%2F)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
@@ -16,8 +16,7 @@
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a> 
   
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> 
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a> 
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a> 
   
