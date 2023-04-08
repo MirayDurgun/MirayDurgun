@@ -12,6 +12,7 @@
   <img align="left" alt="Email" width="22px" src="https://user-images.githubusercontent.com/27498814/109384016-3e2a0e00-78fb-11eb-8547-a1fe5998a1f9.png" />
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+  <br>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
