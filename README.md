@@ -1,7 +1,19 @@
 ## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/miraaydurgun)
 
-[![Linkedin Badge](https://img.shields.io/badge/-miraydurgun-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/miraydurgun)
-[![Instagram Badge](https://img.shields.io/badge/-miraaydurgun-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/miraaydurgun/)
+<a href="https://www.linkedin.com/in/miraydurgun/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
+</a>
+
+<a href="https://dev.to/berkancelik" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="apobozdag" width="22px" /></a>
+
+<a href="https://stackoverflow.com/users/18999798/berkan-%c3%87elik" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5874745" width="22px" /></a>
+
+<a href="https://www.instagram.com/miraaydurgun/?hl=tr">
+  <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />
+</a>
+
+<a href="mailto:miraydurgun6@gmail.com">
+  <img align="left" alt="Email" width="22px" src="https://user-images.githubusercontent.com/27498814/109384016-3e2a0e00-78fb-11eb-8547-a1fe5998a1f9.png" />
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
