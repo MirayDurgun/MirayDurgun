@@ -4,7 +4,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
 </a>
 
-<a href="https://www.instagram.com/miraaydurgun/?hl=tr">
+<a href="https://https://www.instagram.com/miraaydurgun/?next=%2F">
   <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />
 </a>
 
