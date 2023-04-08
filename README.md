@@ -1,6 +1,6 @@
 ## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/miraaydurgun)
 
-<a href="https://www.linkedin.com/in/miraydurgun/">
+<a href="https://www.linkedin.com/in/miray-durgun-003704244/">
   <img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
 </a>
 
