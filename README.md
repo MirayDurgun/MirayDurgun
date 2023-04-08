@@ -4,7 +4,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
 </a>
 
-<a href="https://https://www.instagram.com/miraaydurgun/?next=%2F">
+<a href="https://www.instagram.com/miraaydurgun/?next=%2F">
   <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />
 </a>
 
@@ -35,10 +35,3 @@
       <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="csharp" width="40" height="40" /> </a> 
   
-
-
-
-
-
-
-
