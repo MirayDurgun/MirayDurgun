@@ -1,6 +1,8 @@
 # 💫 About Me:
 ## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/miraaydurgun)
-🔭 I’m currently working on .Net Web Development and other programming languages<br>📫 How to reach me miraydurgun67@gmail.com<br>⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+🔭 I’m currently working on .Net Web Development and other programming languages<br>
+📫 How to reach me miraydurgun67@gmail.com<br>
+⚡ Fun fact :Food and Music🎵 are the reasons to live.
 
 
 ## 🌐 Socials:
