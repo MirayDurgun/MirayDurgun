@@ -2,7 +2,7 @@
 ## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/miraaydurgun)
 🔭 I’m currently working on .Net Web Development and other programming languages<br>
 📫 How to reach me miraydurgun67@gmail.com<br>
-⚡ Fun fact :Food and Music🎵 are the reasons to live.<br>
+⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
 [![](https://visitcount.itsvg.in/api?id=miraaydurgun&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
