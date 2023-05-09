@@ -3,7 +3,7 @@
 🔭 I’m currently working on .Net Web Development and other programming languages<br>
 📫 How to reach me miraydurgun67@gmail.com<br>
 ⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
-[![](https://visitcount.itsvg.in/api?id=miraaydurgun&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4063) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miraaydurgun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miraydurgun) 
