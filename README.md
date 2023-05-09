@@ -13,4 +13,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=miraaydurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miraaydurgun&theme=react&hide_border=true)<br/>
+<float:left>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miraaydurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
