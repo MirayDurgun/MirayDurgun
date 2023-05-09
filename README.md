@@ -1,39 +1,23 @@
+# 💫 About Me:
 ## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/miraaydurgun)
+Hey, I'm Miray Durgun<br>
+🔭 I’m currently working on .Net Web Development and other programming languages<br>📫 How to reach me miraydurgun67@gmail.com<br>⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-<a href="https://www.linkedin.com/in/miraydurgun/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
-</a>
 
-<a href="https://www.instagram.com/miraaydurgun/?next=%2F">
-  <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />
-</a>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4063) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miraaydurgun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miraydurgun) 
 
-<a href="mailto:miraydurgun67@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://user-images.githubusercontent.com/27498814/109384016-3e2a0e00-78fb-11eb-8547-a1fe5998a1f9.png" />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=miraaydurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=miraaydurgun&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miraaydurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-  <br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- 🌱 I’m currently learning Web Development and other programming languages
+---
+[![](https://visitcount.itsvg.in/api?id=miraaydurgun&icon=5&color=1)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **miraydurgun67@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>   
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>   
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a>   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> 
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
-      <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="csharp" width="40" height="40" /> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>   
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
