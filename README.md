@@ -29,7 +29,8 @@
   <br/>
   </td>
   <td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraaydurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=miraaydurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=miraaydurgun&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
     </tr>
   </table>
