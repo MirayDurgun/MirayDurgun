@@ -26,8 +26,9 @@
   </td>
   <td width="50%" align="center">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+   <br/>
 <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MirayDurgun&theme=react&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirayDurgun&layout=donut">
+   <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   </td>
     </tr>
@@ -35,6 +36,16 @@
   
   <img alt="Miray's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirayDurgun&theme=react&hide_border=true" />
   <br/>
+  
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MirayDurgun&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MirayDurgun&repo=convoychat" />
+</a>
+
+
  <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
