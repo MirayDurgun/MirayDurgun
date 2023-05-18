@@ -24,10 +24,12 @@
   
 <tr border="0">
 <td width="50%" align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://github-readme-stats.vercel.app/api?username=MirayDurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false">
   <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirayDurgun&theme=react&hide_border=true">
-  <br/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <br/>
   </td>
   <td width="50%" align="center">
 <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MirayDurgun&theme=react&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
