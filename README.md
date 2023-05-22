@@ -18,11 +18,12 @@
   <a href="https://www.instagram.com/miraaydurgun/" alt="miraaydurgun">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 <a href="https://discordapp.com/users/776749637826117640" alt="#4036">
-  <img src="https://img.shields.io/badge/-Discord-DF0174?style=flat-square&labelColor=Discord&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
+  <img src="https://img.shields.io/badge/-Discord-DF0174?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
   </a>
 
 </p>  
 <br/>
+
 [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
