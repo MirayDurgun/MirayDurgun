@@ -11,11 +11,8 @@
 <a href="https://www.instagram.com/miraaydurgun/">
   <img align="left" alt="Miray's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/#4036">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://gmail.com/miraydurgun67@gmail.com">
-  <img align="left" alt="Miray Durgun | Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+<a href="https://discordapp.com/users/776749637826117640">
+  <img align="left" alt="#4036" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/miraydurgun/">
   <img align="left" alt="Miray's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
