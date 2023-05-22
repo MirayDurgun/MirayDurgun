@@ -9,13 +9,12 @@
 ⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
 ), technical writing on [dev.to](https://dev.to/anmolbaranwal), and contributing to open-source projects.
 </div>
+[![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-[![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)(https://discord.gg/#4063"/>
+[![](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)(https://discord.gg/#4063)
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miraaydurgun"/>
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miraydurgun"/>
 
