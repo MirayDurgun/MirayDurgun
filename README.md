@@ -23,6 +23,7 @@ Let's connect and create something awesome together!
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3 align="left">🌐 Socials:</h3> 
 <p align="left">
   <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
@@ -37,6 +38,7 @@ Let's connect and create something awesome together!
   <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
   </a>
 </p>  
+
 # 💻 Tech Stack:<img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
