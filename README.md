@@ -8,7 +8,20 @@
 ⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
 </div>
 <h3 align="left">🌐 Socials:</h3> 
-<a href="https://www.instagram.com/miraaydurgun/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miraaydurgunn"/></a>
+<a href="https://www.instagram.com/miraaydurgun/">
+  <img align="left" alt="Miray's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/#4036">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://gmail.com/miraydurgun67@gmail.com">
+  <img align="left" alt="Miray Durgun | Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/miraydurgun/">
+  <img align="left" alt="Miray's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="#4036" ></a>
 <a href="https://www.linkedin.com/in/miraydurgun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:miraydurgun67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
