@@ -9,12 +9,8 @@
 <h3 align="left">🌐 Socials:</h3> 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miraaydurgun) 
-<a href="[https://www.instagram.com/miraaydurgun/](https://instagram.com/miraaydurgun)">
-  <img align="left" alt="niraaydurgun" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 
-
-<a href="https://instagram.com/miraaydurgun" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miraaydurgun" width="22" />
+<a href="[https://instagram.com/miraaydurgun](https://instagram.com/miraaydurgun)" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miraaydurgun" width="22" />
 </a>
 <a href="https://discordapp.com/users/776749637826117640">
   <img align="left" alt="#4036" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
