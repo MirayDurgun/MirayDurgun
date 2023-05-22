@@ -11,7 +11,7 @@
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
-  ## 💻 Coding Journey
+  ## 💻 Coding Journey  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
@@ -39,7 +39,7 @@ Let's connect and create something awesome together!
   </a>
 </p>  
 
-<h3> 💻 Tech Stack:   <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40"></h3>
+<h3> 💻 Tech Stack: </h3>
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
