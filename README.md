@@ -7,7 +7,8 @@
 ⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
 </div>
 <h3 align="left">🌐 Socials:</h3> 
-<a href="https://www.instagram.com/miraaydurgun/">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miraaydurgun) 
+<a href="[https://www.instagram.com/miraaydurgun/](https://instagram.com/miraaydurgun)">
   <img align="left" alt="niraaydurgun" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.instagram.com/miraaydurgun/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miraaydurgun" width="22" />
@@ -18,11 +19,9 @@
 <a href="https://www.linkedin.com/in/miraydurgun/">
   <img align="left" alt="Miray's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
-<a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="#4036" ></a>
-<a href="https://www.linkedin.com/in/miraydurgun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:miraydurgun67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:miraydurgun67@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
