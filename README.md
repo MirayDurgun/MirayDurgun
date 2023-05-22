@@ -5,7 +5,25 @@
 <div>
 🔭 I’m currently working on .Net Web Development and other programming languages<br>
 📫 How to reach me miraydurgun67@gmail.com<br>
-⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
+⚡ Fun fact :Food and Music
+  🎵 are the reasons to live.<br><br>
+  
+  
+  I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. 
+
+## 🎶 Music Enthusiast
+
+Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
+ ## 📚 Reading books is my escape.
+  ## 💻 Coding Journey
+
+Coding is not just a job for me; it's a journey of continuous learning and growth.
+
+## 🚀 Continuous Learning
+
+As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
+
+Let's connect and create something awesome together!
 </div>
 <h3 align="left">🌐 Socials:</h3> 
 <p align="left">
@@ -28,7 +46,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<h3> 💻 Tech Stack:</h3><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
+# 💻 Tech Stack:<img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
