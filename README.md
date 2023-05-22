@@ -1,5 +1,5 @@
-<h1> Hey</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/MirayDurgun)
-
+<h1> Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/MirayDurgun)
+</h1>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
 <div>
@@ -10,6 +10,8 @@
 <h3 align="left">🌐 Socials:</h3> 
 <a href="https://www.instagram.com/miraaydurgun/">
   <img align="left" alt="niraaydurgun" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.instagram.com/miraaydurgun/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miraaydurgun" height="30" width="22" />
 </a>
 <a href="https://discordapp.com/users/776749637826117640">
   <img align="left" alt="#4036" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
