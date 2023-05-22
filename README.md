@@ -11,7 +11,7 @@
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
-  ## 💻 Coding Journey     <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40" height"<=20">
+  ## 💻 Coding Journey     <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40" height="20">
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
