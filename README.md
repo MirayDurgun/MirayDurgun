@@ -19,6 +19,8 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 Let's connect and create something awesome together!
 </div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="left">🌐 Socials:</h3> 
 <p align="left">
   <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
@@ -37,8 +39,6 @@ Let's connect and create something awesome together!
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 
 # 💻 Tech Stack:<img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
 <div align="center">
