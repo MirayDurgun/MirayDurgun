@@ -5,7 +5,6 @@
 ⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-<br><br>
 
 
 [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
