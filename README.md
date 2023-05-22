@@ -12,16 +12,18 @@
   <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/miraydurgun/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/miraydurgun/" alt="miraydurgun">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://www.instagram.com/miraaydurgun/" alt="Instagram">
+  <a href="https://www.instagram.com/miraaydurgun/" alt="miraaydurgun">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-  <a href="https://discordapp.com/users/776749637826117640">
+    <a href="https://discordapp.com/users/776749637826117640" alt="#4036">
+  <img src="https://img.shields.io/badge/-Discord-DF0174?style=flat-square&labelColor=DF0174&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/></a>
+  <a href="https://discordapp.com/users/776749637826117640" alt="#4036">
   <img align="left" alt="#4036" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 </p>  
-
+<br/>
 [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
