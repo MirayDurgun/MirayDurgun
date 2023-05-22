@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/MirayDurgun)
-🔭 I’m currently working on .Net Web Development and other programming languages<br>
-📫 How to reach me miraydurgun67@gmail.com<br>
-⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
+🔭 I’m currently working on .Net Web Development and other programming languages<br>
+📫 How to reach me miraydurgun67@gmail.com<br>
+⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
