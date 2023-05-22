@@ -18,6 +18,19 @@
 <a href="mailto:miraydurgun67@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<br/>
+
+<p align="left">
+  <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/miraydurgun/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://www.instagram.com/miraaydurgun/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
+
 
 [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
