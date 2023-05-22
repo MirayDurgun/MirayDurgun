@@ -14,6 +14,9 @@
 ## 🌐 Socials:
 <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="#4036" ></a>
 <a href="https://www.linkedin.com/in/miraydurgun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:miraydurgun67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
 
 # 💻 Tech Stack:  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
 <div align="center">
