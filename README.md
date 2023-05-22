@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://www.instagram.com/miraaydurgun/" alt="miraaydurgun">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=pink&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-0e76a8?style=flat-square&labelColor=pink&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 <a href="https://discordapp.com/users/776749637826117640" alt="#4036">
   <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
   </a>
