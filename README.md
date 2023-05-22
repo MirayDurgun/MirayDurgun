@@ -7,7 +7,7 @@
 📫 How to reach me miraydurgun67@gmail.com<br>
 ⚡ Fun fact :Food and Music🎵 are the reasons to live.<br><br>
 </div>
-# 🌐 Socials:
+## 🌐 Socials:
 <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="#4036" ></a>
 <a href="https://www.linkedin.com/in/miraydurgun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:miraydurgun67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
