@@ -4,6 +4,7 @@
 
 <div>
   I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. 
+  [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🎶 Music Enthusiast
 
@@ -34,12 +35,7 @@ Let's connect and create something awesome together!
 <a href="https://discordapp.com/users/776749637826117640" alt="#4036">
   <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
   </a>
-
 </p>  
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 # 💻 Tech Stack:<img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
@@ -85,10 +81,9 @@ Let's connect and create something awesome together!
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <img alt="Miray's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirayDurgun&theme=react&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
-
 
 <p align="center">
 <a href="https://github.com/Anmol-Baranwal">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
