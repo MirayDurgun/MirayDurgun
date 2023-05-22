@@ -39,8 +39,4 @@
   <img alt="Miray's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirayDurgun&theme=react&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<p align="center">
-  <img width="30%" src="https://github.com/MirayDurgun/MirayDurgun/raw/master/lang.gif" alt="lang image here" />
-</p>
-
                                                                                                                                                      
