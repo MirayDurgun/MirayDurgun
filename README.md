@@ -3,18 +3,12 @@
 
 
 <div>
-🔭 I’m currently working on .Net Web Development and other programming languages<br>
-📫 How to reach me miraydurgun67@gmail.com<br>
-⚡ Fun fact :Food and Music
-  🎵 are the reasons to live.<br><br>
-  
-  
   I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. 
 
 ## 🎶 Music Enthusiast
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
- ## 📚 Reading books is my escape.
+  
   ## 💻 Coding Journey
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
