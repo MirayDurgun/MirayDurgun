@@ -24,7 +24,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="left">🌐 Socials:</h3> 
+<h3 align="left"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/89d5b102-c31d-4587-b7c2-3fc2c62b36ca" width="30" height="30"> Socials:</h3> 
 <p align="left">
   <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
