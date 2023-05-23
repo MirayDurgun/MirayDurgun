@@ -15,12 +15,12 @@ Music is my ultimate source of inspiration and relaxation. Whenever I'm not codi
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
-##<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="30" height="30">
+## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="30" height="30">
   Continuous Learning
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
-<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/93402d50-34f5-4c20-bf2f-50d6b9712bca" width="25" height="25">  Let's connect and create something awesome together!
+<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/6c484857-6868-4b3d-868a-1cd33107ebf6" width="25" height="25">  Let's connect and create something awesome together!
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
