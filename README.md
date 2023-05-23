@@ -92,4 +92,4 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"> 
 
 
-![code](https://github.com/MirayDurgun/MirayDurgun/assets/117771962/eee61d21-1298-4d42-adce-96fe2f88217b)
+<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/eee61d21-1298-4d42-adce-96fe2f88217b" width="20" height="20">
