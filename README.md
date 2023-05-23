@@ -15,8 +15,7 @@ Music is my ultimate source of inspiration and relaxation. Whenever I'm not codi
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="30" height="30">
-  Continuous Learning
+## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="30" height="30">  Continuous Learning
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
