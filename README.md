@@ -7,19 +7,20 @@
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-## 🎶 Music Enthusiast
+## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/ede9c619-e076-4c35-abca-d36c0098c4e0" width="30" height="30"> Music Enthusiast
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
-  ## 💻 Coding Journey     <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30" height="25">
+  ## 💻 Coding Journey  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30" height="25">
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
-## 🚀 Continuous Learning
+##<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="30" height="30">
+  Continuous Learning
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
-✨ Let's connect and create something awesome together!
+<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/93402d50-34f5-4c20-bf2f-50d6b9712bca" width="25" height="25">  Let's connect and create something awesome together!
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -40,7 +41,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 </p>  
 
 <h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/eee61d21-1298-4d42-adce-96fe2f88217b" width="30" height="30">  Tech Stack: </h3>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
