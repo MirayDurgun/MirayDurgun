@@ -34,7 +34,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
   <a href="https://www.instagram.com/miraaydurgun/" alt="miraaydurgun">
   <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-<a href="https://discordapp.com/users/776749637826117640" alt="#4036">
+<a href="https://discordapp.com/users/776749637826117640" alt="#4063">
   <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
   </a>
 </p>  
