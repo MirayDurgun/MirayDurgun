@@ -7,19 +7,19 @@
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/ede9c619-e076-4c35-abca-d36c0098c4e0" width="25" height="25"> Music Enthusiast
+## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/ede9c619-e076-4c35-abca-d36c0098c4e0" width="25" height="25">     Music Enthusiast
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
-  ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30" height="25"> Coding Journey  
+  ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30" height="25">  Coding Journey  
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="25" height="25">  Continuous Learning
+## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="25" height="25">    Continuous Learning
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
-<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/6c484857-6868-4b3d-868a-1cd33107ebf6" width="20" height="20">  Let's connect and create something awesome together!
+<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/6c484857-6868-4b3d-868a-1cd33107ebf6" width="20" height="20">   Let's connect and create something awesome together!
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -60,7 +60,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/cdd97b63-48d2-4c8e-85d0-6406a56704bb" width="25" height="25"> GitHub Stats:</h3>
+<h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/cdd97b63-48d2-4c8e-85d0-6406a56704bb" width="25" height="25">   GitHub Stats:</h3>
 <table border="0" align="center">
  <tr border="0">
 <td width="50%" align="center">
