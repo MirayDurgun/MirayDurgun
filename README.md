@@ -1,4 +1,6 @@
 ## Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Miray Durgun](https://linkedin.com/in/MirayDurgun)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
@@ -59,7 +61,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/cdd97b63-48d2-4c8e-85d0-6406a56704bb" width="25" height="25">   GitHub Stats:</h3>
 <table border="0" align="center">
@@ -75,7 +77,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   </td>
     </tr>
   </table>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <img alt="Miray's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirayDurgun&theme=react&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
