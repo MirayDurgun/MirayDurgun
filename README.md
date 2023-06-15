@@ -62,18 +62,27 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 <h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/cdd97b63-48d2-4c8e-85d0-6406a56704bb" width="25" height="25">   GitHub Stats:</h3>
 <table border="0" align="center">
- <tr border="0">
-<td width="0%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MirayDurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false">
-  <br/>
+   <tr border="0">
+     
+     
+  <td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=username=MirayDurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false">
+<br>
+</br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirayDurgun&theme=react&hide_border=true">
  <br/>
   </td>
+  
+  
   <td width="50%" align="center">
 <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MirayDurgun&theme=react&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
+  
+  
     </tr>
   </table>
+  
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <img alt="Miray's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirayDurgun&theme=react&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
