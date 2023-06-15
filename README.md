@@ -63,7 +63,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/cdd97b63-48d2-4c8e-85d0-6406a56704bb" width="25" height="25">   GitHub Stats:</h3>
 <table border="0" align="center">
  <tr border="0">
-<td width="50%" align="center">
+<td width="0%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MirayDurgun&theme=react&hide_border=true&include_all_commits=false&count_private=false">
   <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirayDurgun&theme=react&hide_border=true">
