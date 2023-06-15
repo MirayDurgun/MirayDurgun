@@ -64,22 +64,17 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 
 <table border="0" align="center">
-   <tr border="0">
-     
+   <tr border="0">     
      <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MirayDurgun&amp;theme=react&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <br>
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirayDurgun&theme=react&hide_border=true">
  <br/>
-  </td>
-  
-  
+  </td>  
   <td width="50%" align="center">
 <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MirayDurgun&theme=react&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
-  
-  
     </tr>
   </table>
   
