@@ -40,7 +40,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 <h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/eee61d21-1298-4d42-adce-96fe2f88217b" width="25" height="25">  Tech Stack: </h3>
 <div align="left">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/c-%200bfbf.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -50,7 +50,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/jQuery-aa56ff?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-e20000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/sqlite-%2300bfbf.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
  <br/>
