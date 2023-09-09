@@ -53,7 +53,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <img src="https://img.shields.io/badge/sqlite-%237fb6e8.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-e87f7f?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swagger-%237fe880?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="Swagger">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
 </div>
  <br/>
 <br/>
