@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm </h1> [Miray Durgun](https://linkedin.com/in/MirayDurgun)
+<h1 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Miray Durgun</h1> (https://linkedin.com/in/MirayDurgun)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div>
