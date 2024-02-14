@@ -90,7 +90,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 <div align="center"> 
   <a href="https://github.com/MirayDurgun/CoreBlog">
-    <img width="400" alt="project" src="![coreblog](https://github.com/MirayDurgun/MirayDurgun/assets/117771962/0772f8e1-2107-48fb-840f-40ff7f612f56)" />
+    <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/0772f8e1-2107-48fb-840f-40ff7f612f56" />
   </a>
     <a href="https://github.com/MirayDurgun/CoreBlog">
     <img width="400" alt="project" src="![coreblog](https://github.com/MirayDurgun/MirayDurgun/assets/117771962/0772f8e1-2107-48fb-840f-40ff7f612f56)" />
