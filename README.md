@@ -89,11 +89,8 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 </p>
 
 <div align="center"> 
-  <a href="https://github.com/Mridul2820/git-o-get">
-    <img width="400" alt="Git o get" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569832/Mridul2820%20-%20Github/git_o_get_hzrymn.png" />
-  </a>
-  <a href="https://github.com/Mridul2820/cineparadis">
-    <img width="400" alt="Cineparadis" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569833/Mridul2820%20-%20Github/cineparadis_fkkttg.png" />
+  <a href="https://github.com/MirayDurgun/CoreBlog">
+    <img width="400" alt="Git o get" src="![coreblog](https://github.com/MirayDurgun/CoreBlog/assets/117771962/78f453bc-59c5-4721-89a1-c25d324ebe1f)" />
   </a>
 </div>
 
