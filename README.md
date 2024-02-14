@@ -87,5 +87,15 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 <a href="https://github.com/Anmol-Baranwal">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 </p>
+
+<div align="center"> 
+  <a href="https://github.com/Mridul2820/git-o-get">
+    <img width="400" alt="Git o get" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569832/Mridul2820%20-%20Github/git_o_get_hzrymn.png" />
+  </a>
+  <a href="https://github.com/Mridul2820/cineparadis">
+    <img width="400" alt="Cineparadis" src="https://res.cloudinary.com/dbxcernxw/image/upload/v1653569833/Mridul2820%20-%20Github/cineparadis_fkkttg.png" />
+  </a>
+</div>
+
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
