@@ -90,7 +90,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 <div align="center"> 
   <a href="https://github.com/MirayDurgun/CoreBlog">
-    <img width="400" alt="Git o get" src="![coreblog](https://github.com/MirayDurgun/CoreBlog/assets/117771962/78f453bc-59c5-4721-89a1-c25d324ebe1f)" />
+    <img width="400" alt="project" src="![coreblog](https://github.com/MirayDurgun/MirayDurgun/assets/117771962/0772f8e1-2107-48fb-840f-40ff7f612f56)" />
   </a>
 </div>
 
