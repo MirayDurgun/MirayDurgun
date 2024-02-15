@@ -92,7 +92,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   <a href="https://github.com/MirayDurgun/CoreBlog">
     <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/0772f8e1-2107-48fb-840f-40ff7f612f56" />
   </a>
-    <a href="https://github.com/MirayDurgun/HotelApiProject">
+    <a href="https://github.com/MirayDurgun/HotelApi_Project">
     <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/91114831-c5e8-47e3-b246-db4a32953833" />
   </a>
 </div>
