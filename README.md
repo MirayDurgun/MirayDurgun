@@ -96,7 +96,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
     <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/91114831-c5e8-47e3-b246-db4a32953833" />
   </a>
     <a href="https://github.com/MirayDurgun/HotelApi_Project">
-    <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/91114831-c5e8-47e3-b246-db4a32953833" />
+    <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/6c68651b-ef0f-440d-bce6-a7d7051e946c" />
   </a>
 </div>
 
