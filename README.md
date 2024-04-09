@@ -60,7 +60,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 
 
-<h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/cdd97b63-48d2-4c8e-85d0-6406a56704bb" width="25" height="25">   GitHub Stats:</h3>
+<h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/46cfffd7-0452-4be1-8c75-787e7c0b1bce" width="40" height="35">   GitHub Stats:</h3>
 
 
 <table border="0" align="center">
