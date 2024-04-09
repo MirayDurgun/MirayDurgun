@@ -5,7 +5,7 @@
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="35" height="35"> Music Enthusiast
+## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="40"> Music Enthusiast
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
