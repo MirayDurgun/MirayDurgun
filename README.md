@@ -5,7 +5,7 @@
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="35"> Music Enthusiast</h2> 
+<h2 style="margin-bottom: 0;"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="35"> Music Enthusiast</h2> 
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
@@ -21,7 +21,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="left"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2ad3f5ba-5182-4e60-b58e-7e01abfb0cf7" width="40" height="35"> Socials:</h3> 
+<h2 align="left"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2ad3f5ba-5182-4e60-b58e-7e01abfb0cf7" width="40" height="35"> Socials:</h2> 
 <p align="left">
   <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
@@ -36,7 +36,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   </a>
 </p>  
 
-<h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/07d6fce0-8e2d-48e0-ace9-a1913e853945" width="40" height="35">  Tech Stack: </h3>
+<h2> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/07d6fce0-8e2d-48e0-ace9-a1913e853945" width="40" height="35">  Tech Stack: </h2>
 <div align="left">
 <img src="https://img.shields.io/badge/c-%23ffaad4.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -60,7 +60,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 
 
-<h3><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/46cfffd7-0452-4be1-8c75-787e7c0b1bce" width="40" height="35">   GitHub Stats:</h3>
+<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/46cfffd7-0452-4be1-8c75-787e7c0b1bce" width="40" height="35">   GitHub Stats:</h2>
 
 
 <table border="0" align="center">
@@ -83,12 +83,14 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   <img alt="Miray's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirayDurgun&theme=react&hide_border=true" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+<p align="center">
+<a href="https://github.com/Anmol-Baranwal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
+</p>
 
 
 
-<h3><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/27aa6348-7931-4833-9344-8e6fa870b0f2" width="40" height="35">   Projects</h3>
 <div align="center"> 
-
   <a href="https://github.com/MirayDurgun/CoreBlog">
     <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/0772f8e1-2107-48fb-840f-40ff7f612f56" />
   </a>
@@ -101,7 +103,4 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 </div>
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<p align="center">
-<a href="https://github.com/Anmol-Baranwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
-</p>
+
