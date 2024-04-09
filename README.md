@@ -1,7 +1,6 @@
-## Miray Durgun 
 <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="400" height="50">
 <div align="center"> 
-<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="100" height="50">
+<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="400" height="50">
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
