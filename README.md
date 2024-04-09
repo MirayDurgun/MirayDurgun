@@ -13,7 +13,7 @@ Music is my ultimate source of inspiration and relaxation. Whenever I'm not codi
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/87a45596-7525-4e14-a2f0-2b7c0f8b4471" width="25" height="25">    Continuous Learning
+## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2411fe65-1bf3-42ca-8804-b17a39bc666a" width="40" height="35">    Continuous Learning
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
@@ -21,7 +21,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="left"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/89d5b102-c31d-4587-b7c2-3fc2c62b36ca" width="25" height="25"> Socials:</h3> 
+<h3 align="left"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2ad3f5ba-5182-4e60-b58e-7e01abfb0cf7" width="40" height="35"> Socials:</h3> 
 <p align="left">
   <a href="mailto:miraydurgun67@gmail.com" alt="Miray">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
@@ -36,7 +36,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
   </a>
 </p>  
 
-<h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/eee61d21-1298-4d42-adce-96fe2f88217b" width="25" height="25">  Tech Stack: </h3>
+<h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/07d6fce0-8e2d-48e0-ace9-a1913e853945" width="40" height="35">  Tech Stack: </h3>
 <div align="left">
 <img src="https://img.shields.io/badge/c-%23ffaad4.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
