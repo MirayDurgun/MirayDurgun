@@ -1,17 +1,14 @@
 <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="400" height="50">
-<div align="center"> 
-<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="400" height="50">
-</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
-  I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
+  Hello, I am a Junior .Net Developer and I am passionate about exploring the world of software development along with music. I firmly believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="35"> Music Enthusiast</h2> 
 
-Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
+Music is my greatest source of inspiration and relaxation. When I'm not coding, you can probably find me lost in the world of melodies with headphones on. Additionally, I also enjoy listening to music while coding. Music enhances my focus and fosters my creativity.
   
 <h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/178cd750-0d5f-4f37-b10a-23cd755da420" width="40" height="35">  Coding Journey</h2> 
 
@@ -20,8 +17,6 @@ Coding is not just a job for me; it's a journey of continuous learning and growt
 <h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2411fe65-1bf3-42ca-8804-b17a39bc666a" width="40" height="35">    Continuous Learning</h2> 
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
-
-<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/6c484857-6868-4b3d-868a-1cd33107ebf6" width="20" height="20">   Let's connect and create something awesome together!
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
