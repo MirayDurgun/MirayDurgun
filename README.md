@@ -1,5 +1,5 @@
 ## Miray Durgun 
-<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="500" height="200">
+<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="300" height="50">
 <div align="center"> 
 <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/9f4458fd-ad63-4d1f-9b32-230258f0a256" width="350" height="350">
 </div>
