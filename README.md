@@ -1,11 +1,16 @@
 ## Miray Durgun 
+
+<div align="center"> 
+<img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/6f38fe11-b02d-44f2-bec9-fa19ffac87d6" width="40" height="35">
+</div>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
   I'm a Junior .Net Developer with a passion for music and exploring new places. I believe in continuous self-improvement and strive to enhance my skills in the field of software development. <br/><br/>
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<h2 style="margin-bottom: -10px;"><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="35"> Music Enthusiast</h2> 
+<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="35"> Music Enthusiast</h2> 
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
