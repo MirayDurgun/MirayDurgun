@@ -5,11 +5,11 @@
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="40"> Music Enthusiast
+## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="35"> Music Enthusiast
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
-  ## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/178cd750-0d5f-4f37-b10a-23cd755da420" width="40" height="25">  Coding Journey  
+  ## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/178cd750-0d5f-4f37-b10a-23cd755da420" width="40" height="35">  Coding Journey  
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
