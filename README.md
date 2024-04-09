@@ -9,11 +9,11 @@
 
 Music is my ultimate source of inspiration and relaxation. Whenever I'm not coding, you can probably find me with a pair of headphones, lost in the world of melodies.
   
-  ## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/178cd750-0d5f-4f37-b10a-23cd755da420" width="40" height="35">  Coding Journey  
+<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/178cd750-0d5f-4f37-b10a-23cd755da420" width="40" height="35">  Coding Journey</h2> 
 
 Coding is not just a job for me; it's a journey of continuous learning and growth.
 
-## <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2411fe65-1bf3-42ca-8804-b17a39bc666a" width="40" height="35">    Continuous Learning
+<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/2411fe65-1bf3-42ca-8804-b17a39bc666a" width="40" height="35">    Continuous Learning</h2> 
 
 As a lifelong learner, I'm always seeking opportunities to grow and expand my knowledge. I believe that staying up-to-date with the latest technologies and industry trends is crucial in the fast-paced world of software development.
 
@@ -31,7 +31,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
   <a href="https://www.instagram.com/miraaydurgun/" alt="miraaydurgun">
   <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-<a href="https://discordapp.com/users/776749637826117640" alt="#4063">
+   <a href="https://discordapp.com/users/776749637826117640" alt="#4063">
   <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&labelColor=black&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/>
   </a>
 </p>  
@@ -60,7 +60,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 
 
-<h3> <img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/46cfffd7-0452-4be1-8c75-787e7c0b1bce" width="40" height="35">   GitHub Stats:</h3>
+<h3><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/46cfffd7-0452-4be1-8c75-787e7c0b1bce" width="40" height="35">   GitHub Stats:</h3>
 
 
 <table border="0" align="center">
@@ -89,6 +89,7 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 </p>
 
 <div align="center"> 
+  <h3><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/27aa6348-7931-4833-9344-8e6fa870b0f2" width="40" height="35">   Projects</h3>
   <a href="https://github.com/MirayDurgun/CoreBlog">
     <img width="400" alt="project" src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/0772f8e1-2107-48fb-840f-40ff7f612f56" />
   </a>
