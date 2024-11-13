@@ -6,9 +6,6 @@
   
   [![](https://visitcount.itsvg.in/api?id=miraaydurgun&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/190b4198-6377-4765-9be1-05cec2c81d3d" width="40" height="35"> Music Enthusiast</h2> 
-
-Music is my greatest source of inspiration and relaxation. When I'm not coding, you can probably find me lost in the world of melodies with headphones on. Additionally, I also enjoy listening to music while coding. Music enhances my focus and fosters my creativity.
   
 <h2><img src="https://github.com/MirayDurgun/MirayDurgun/assets/117771962/178cd750-0d5f-4f37-b10a-23cd755da420" width="40" height="35">  Coding Journey</h2> 
 
